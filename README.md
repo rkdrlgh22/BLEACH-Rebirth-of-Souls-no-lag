@@ -18,4 +18,7 @@ Properties (R) => Compatibility => Compatibility mode for windows7, and run this
 
 이럼에도 안될경우에는 
 `BLEACH_Rebirth_of_Souls.exe` 와 `start_protected_game.exe` 이 두개를
-속성(R) => 호환성 => 호환 모드 windows7 , 관리자 권한으로 이 프로그램 실행을 활성화 해주세요,
+속성(R) => 호환성 => 호환 모드 windows7 , 관리자 권한으로 이 프로그램 실행을 활성화 해주세요.
+
+더 많은 정보는 아래에서 있습니다.
+https://steamcommunity.com/app/1689620/discussions/0/597395881634831149/
